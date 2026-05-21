@@ -54,7 +54,6 @@ Place and connect the following components:
 <img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/bade06b6-0513-4fbd-b265-b0b043be7ffe" />
 
 ---
-
 ## Result
 <img width="1448" height="1015" alt="Screenshot 2026-02-05 113211" src="https://github.com/user-attachments/assets/5a7b450e-e6d6-4efc-8c33-791775fdfa8c" />
 

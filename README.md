@@ -12,7 +12,6 @@ If the optical source has a spectral width much greater than the signal bandwidt
 <img width="1482" height="1120" alt="image" src="https://github.com/user-attachments/assets/83f63473-b1b3-4afc-ad17-9e9850041cae" />
 
 ---
-
 ### Output Pulse Broadening
 If a Gaussian pulse is input to a linear system with a Gaussian impulse response, the output is also Gaussian with RMS width:
 <img width="340" height="102" alt="image" src="https://github.com/user-attachments/assets/c60d35c1-8a0f-4c50-873d-1314ec59a29f" />
@@ -50,10 +49,12 @@ Place and connect the following components:
   - FWHM width of optical spectra
   
 ---
+
 ## Analysis
 <img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/bade06b6-0513-4fbd-b265-b0b043be7ffe" />
 
 ---
+
 ## Result
 <img width="1448" height="1015" alt="Screenshot 2026-02-05 113211" src="https://github.com/user-attachments/assets/5a7b450e-e6d6-4efc-8c33-791775fdfa8c" />
 
